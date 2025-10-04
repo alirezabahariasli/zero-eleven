@@ -1,6 +1,13 @@
 # zero-eleven
 secret project
 # Password Security Checker
-A simple web-based tool to check the strength of passwords and provide security tips.
-CyberShield is a user-friendly web tool designed to evaluate password strength and enhance online security. It checks passwords for length, numbers, and special characters, providing instant feedback and security tips. This project helps users create stronger passwords to protect their accounts from cyber threats.
 
+## How to Use
+1. Open `index.html` in a web browser.
+2. Enter a password in the input field.
+3. Click "Check" to see feedback on password strength.
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
